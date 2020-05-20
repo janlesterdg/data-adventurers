@@ -11,7 +11,7 @@ Super Admin (Organization Advisers)
 	accept/reject membership registration 
 	post announcements/activities/memo
 	create/hide polls
-  can set-up the start of school year and registration date
+  	can set-up the start of school year and registration date
 
 
 Admin (Organization Officers)
