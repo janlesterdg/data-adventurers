@@ -1,8 +1,7 @@
 # data-adventurers
-Data Adventurers is the name of our organization and we have to create a system that allows the admin and client to interact with the website.
+Our finals project in Web Systems and Technologies Lab is to create a system for school organization (Data Adventurers) that allows users to do the following:
 
 
-The modules are:
 
 super admin (organization advisers)
 
