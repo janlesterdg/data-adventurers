@@ -1,8 +1,6 @@
 # data-adventurers
 Our finals project in Web Systems and Technologies Lab is to create a system for school organization (Data Adventurers) that allows users to do the following:
 
-The modules are:
-
 
 Super Admin (Organization Advisers)
 
