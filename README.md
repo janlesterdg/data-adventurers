@@ -1,5 +1,6 @@
 # data-adventurers
-Data Adventurers is the name of our organization and we have to create a system that allows the admin and client to interact with their website.
+Data Adventurers is the name of our organization and we have to create a system that allows the admin and client to interact with the website.
+
 
 The modules are:
 
