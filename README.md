@@ -28,5 +28,4 @@ clients (member)
 	view page info/ annoucements (notified via email for any new posts/activities)
 	participate in polls
 	sign up school activities posted by the admin
-	*interact with officers (email/chat)	
 
